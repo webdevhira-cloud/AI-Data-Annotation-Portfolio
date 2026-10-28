@@ -1,0 +1,11 @@
+﻿review_id,review_text,sentiment_label,reasoning,quality_check
+R001,The delivery was fast and the product quality is excellent.,Positive,The customer expresses satisfaction with both delivery speed and product quality.,Pass
+R002,The package arrived late and the product was damaged.,Negative,"The customer reports late delivery and a damaged product, both negative experiences.",Pass
+R003,The order arrived on Monday.,Neutral,This is a factual statement without a clear positive or negative opinion.,Pass
+R004,"The shoes look beautiful, but they are uncomfortable.",Mixed,The customer likes the appearance but dislikes the comfort.,Pass
+R005,"I love the design, but customer support was terrible.",Mixed,The design receives positive feedback while customer support receives negative feedback.,Pass
+R006,The battery lasts all day and the screen is bright.,Positive,"Both features are described favorably, suggesting overall satisfaction.",Pass
+R007,I waited two weeks and nobody replied to my messages.,Negative,The customer expresses dissatisfaction with the long wait and lack of response.,Pass
+R008,The box contains one charger and one cable.,Neutral,The sentence lists contents without expressing an opinion.,Pass
+R009,"The price is reasonable, although setup was confusing.",Mixed,The customer views the price positively but reports a negative setup experience.,Pass
+R010,"Easy to use, reliable, and worth the money.",Positive,The customer gives multiple favorable evaluations of the product.,Pass
